@@ -39,7 +39,7 @@
 
 2. Клонировать существующий репозиторий Git
 
-       git clone ссылка-на-репозиторий, например git clone https://github.com/php-nodejs-developer/git-base.git
+       git clone ссылка-на-репозиторий, например git clone https://github.com/java-junior-developer/git-base.git
        git clone ссылка-на-репозиторий новое-имя-каталога
 
 ***команда создаёт каталог, инициализирует в нём подкаталог .git, скачивает все данные для этого репозитория и извлекает копию последней версии***
@@ -106,7 +106,7 @@
 # Работа с удаленными репозиториями
 ## Добавление (удаление) удалённых репозиториев:
 
-    git remote add <имя> <url>, например git remote add origin https://github.com/profi-jjd/project.git добавление
+    git remote add <имя> <url>, например git remote add origin https://github.comjava-junior-developer/project.git добавление
     git remote remove <имя>, например git remote remove origin удаление
 
 ## Отправка изменений в удаленный репозиторий:
