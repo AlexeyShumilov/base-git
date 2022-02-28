@@ -205,4 +205,5 @@
 1. [Git Book](https://git-scm.com/book/ru/v2)
 2. [Интерактивный тур по git](https://githowto.com/ru)
 3. [Ветвление в игровой форме](https://learngitbranching.js.org/?locale=ru_RU)
-4. grughghaghalghal gslghsflhgsfjl
+4. gguygiluuil
+
